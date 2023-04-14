@@ -1,0 +1,41 @@
+body{
+    background-image:url(pexels-plantpool-images-3926486.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    backface-visibility: visible;
+}
+h1{
+    color:black;
+    text-align: center;
+    text-shadow: tomato;
+    background-color:lightcoral;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+button{
+    background-color:firebrick;
+    color: khaki;
+    position: relative;
+    left: 689px;
+    
+}
+table,th,td {
+    border: 5px solid blue;
+    color: red;
+    text-align: center;
+    border-collapse: collapse ;
+    font-size: large;
+    position: relative;
+    top: 2px;
+}
+hr{
+       position: relative;
+       top: 20px;
+}
+a{
+position: relative;
+top: 90px;
+left: 500px;
+font-size: x-large;
+color: aqua;
+text-decoration:underline overline;
+}

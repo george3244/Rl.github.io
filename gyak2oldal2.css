@@ -1,0 +1,28 @@
+body{
+    width: 100%;
+    height: 200%;
+    background-color: brown;
+}
+.noveny{
+    width: 30%;
+}
+a{
+    position: relative;
+    bottom: 450px;
+    right: 465px;
+    color: wheat;
+}
+
+h1{
+    text-align: center;
+}
+.szoba{
+    width: 30%;
+    position: relative;
+    right: 20px;
+
+}
+.plant{
+    width: 35%;
+    height: 30%;
+}
