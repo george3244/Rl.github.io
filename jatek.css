@@ -1,0 +1,81 @@
+body
+        {
+            background-image: url(885544.jpg);
+            background-size: cover;
+            background-position:center;
+            background-repeat: no-repeat;
+            width: 90%;
+            height: 90vh;
+        }
+div1 {
+    text-size-adjust:unset;
+    text-align: center;    
+    color:wheat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+fieldset {
+background-color: hsl(0, 0%, 50%);
+margin:auto;
+border-color: aqua;
+width: 450px;
+
+}
+
+input{
+    margin: 5px;
+}
+
+legend {
+       text-align: center;
+       color:white;
+       background-color:red;
+       padding: 5px 5px;
+}
+
+div {
+    text-align: center;
+}
+
+li {
+    text-align: center;
+}
+
+.container {
+    background-color: #808080;
+    display: flex ;
+    font-size: x-large;
+    width: 500px;
+    flex-direction: column;
+    margin: auto;
+    height: 500px;
+   
+
+}
+.container div {
+    height: 180px;
+    width: 500px;
+}
+
+.first {
+    background-color:aquamarine;
+    font-size: x-large;
+}
+.second {
+    background-color:blue;
+    font-size: x-large;
+    margin: justify;
+    
+}
+.third {
+    background-color: purple;
+    font-size:x-large;
+}
+.jhonny {
+    text-align:left;
+    color: aqua;
+}
+
+.sheep {
+    text-align: right;
+    color: aquamarine;
+}
