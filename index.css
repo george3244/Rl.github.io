@@ -1,0 +1,52 @@
+﻿body {
+    margin:auto;
+    margin-bottom:40%;
+    height: 200px;
+    width: 150px;
+}
+
+.vizkek {
+    width: 208%;
+    background-color: aqua;
+    height: 30% ;
+    nav-right:root;
+}
+
+.section-tartalom, section {
+    margin: 0;
+    width: 400%;
+    height: 280px;
+    display:flex;
+    flex-direction:row;
+}
+
+.narancs {
+    margin-right: 1%;
+    background-color: orange;
+    width: 10%;
+}
+
+.voros {
+    /*margin-left: 5%;*/
+    background-color: red;
+    width:30%;
+}
+
+.lila {
+    margin-left: 1%;
+    background-color: purple;
+    width: 10%;
+}
+
+.fekete {
+    position:center;
+    top: 80%;
+    left: 10%;
+    background-color: black;
+}
+.sotetkek{
+    margin:initial;
+    width:312px;
+    background-color:darkblue;
+    height:30%;
+}
